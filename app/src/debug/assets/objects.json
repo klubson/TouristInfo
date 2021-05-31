@@ -1,0 +1,247 @@
+[
+	{
+		"id": 1,
+		"name": "Bazylika katedralna św. Jana Chrzciciela i św. Jana Ewangelisty",
+		"longitude": 53.009529356862465,
+		"latitude": 18.606204170944782,
+		"url": "https://pl.wikipedia.org/wiki/Bazylika_katedralna_%C5%9Bw._Jana_Chrzciciela_i_%C5%9Bw._Jana_Ewangelisty_w_Toruniu"
+	},
+	{
+		"id": 2,
+		"name": "Brama Mostowa",
+		"longitude": 53.00876518937695,
+		"latitude": 18.608860711729964,
+		"url": "https://pl.wikipedia.org/wiki/Brama_Mostowa_w_Toruniu"
+	},
+	{
+		"id": 3,
+		"name": "Bulwar Filadelfijski",
+		"longitude": 53.00853603454555,
+		"latitude": 18.60794208289405,
+		"url": "https://pl.wikipedia.org/wiki/Bulwar_Filadelfijski_w_Toruniu"
+	},
+	{
+		"id": 4,
+		"name": "Centrum Nowoczesności Młyn Wiedzy",
+		"longitude": 53.02644720487488,
+		"latitude": 18.627830061463662,
+		"url": "https://pl.wikipedia.org/wiki/Centrum_Nowoczesno%C5%9Bci_M%C5%82yn_Wiedzy_w_Toruniu"
+	},
+	{
+		"id": 5,
+		"name": "Cosmopolis (fontanna)",
+		"longitude": 53.01092406906389,
+		"latitude": 18.599839427073523,
+		"url": "https://pl.wikipedia.org/wiki/Cosmopolis_(fontanna)"
+	},
+	{
+		"id": 6,
+		"name": "Dolina Marzeń",
+		"longitude": 53.00898512227341,
+		"latitude": 18.598099257756157,
+		"url": "https://pl.wikipedia.org/wiki/Dolina_Marze%C5%84_w_Toruniu"
+	},
+	{
+		"id": 7,
+		"name": "Dom Kopernika",
+		"longitude": 53.00948406257826,
+		"latitude": 18.603828954058155,
+		"url": "https://pl.wikipedia.org/wiki/Dom_Kopernika_w_Toruniu"
+	},
+	{
+		"id": 8,
+		"name": "Dom Legend Toruńskich",
+		"longitude": 53.010334529435035,
+		"latitude": 18.606073398237616,
+		"url": "https://pl.wikipedia.org/wiki/Dom_Legend_Toru%C5%84skich"
+	},
+	{
+		"id": 9,
+		"name": "Dwór Artusa",
+		"longitude": 53.010148451072254,
+		"latitude": 18.604358467550586,
+		"url": "https://pl.wikipedia.org/wiki/Dw%C3%B3r_Artusa_w_Toruniu"
+	},
+	{
+		"id": 10,
+		"name": "Dwór Bractwa Świętego Jerzego",
+		"longitude": 53.00902313316144,
+		"latitude": 18.609812913581113,
+		"url": "https://pl.wikipedia.org/wiki/Dw%C3%B3r_Bractwa_%C5%9Awi%C4%99tego_Jerzego_w_Toruniu"
+	},
+	{
+		"id": 11,
+		"name": "Fort IV Twierdzy Toruń",
+		"longitude": 53.041336109406295,
+		"latitude": 18.63406542785824,
+		"url": "https://pl.wikipedia.org/wiki/Fort_IV_Twierdzy_Toru%C5%84"
+	},
+	{
+		"id": 12,
+		"name": "Fort VII Twierdzy Toruń",
+		"longitude": 53.03465576675725,
+		"latitude": 18.566103747437836,
+		"url": "https://pl.wikipedia.org/wiki/Fort_VII_Twierdzy_Toru%C5%84"
+	},
+	{
+		"id": 13,
+		"name": "Gospoda Pod Modrym Fartuchem",
+		"longitude": 53.011300081794765,
+		"latitude": 18.611063355909433,
+		"url": "https://pl.wikipedia.org/wiki/Gospoda_Pod_Modrym_Fartuchem_w_Toruniu"
+	},
+	{
+		"id": 14,
+		"name": "I Liceum Ogólnokształcącego im. Mikołaja Kopernika",
+		"longitude": 53.01215859950386,
+		"latitude": 18.60774814562027,
+		"url": "https://pl.wikipedia.org/wiki/I_Liceum_Og%C3%B3lnokszta%C5%82c%C4%85ce_im._Miko%C5%82aja_Kopernika_w_Toruniu"
+	},
+	{
+		"id": 15,
+		"name": "Kamienica Pod Gwiazdą",
+		"longitude": 53.010630385400496,
+		"latitude": 18.60503246493662,
+		"url": "https://pl.wikipedia.org/wiki/Kamienica_Pod_Gwiazd%C4%85_w_Toruniu"
+	},
+	{
+		"id": 16,
+		"name": "Kościół Świętego Ducha",
+		"longitude": 53.01041947110166,
+		"latitude": 18.60364147125299,
+		"url": "https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Awi%C4%99tego_Ducha_w_Toruniu"
+	},
+	{
+		"id": 17,
+		"name": "Kościół św. Jakuba",
+		"longitude": 53.011415867077915,
+		"latitude": 18.611485467550523,
+		"url": "https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Jakuba_w_Toruniu"
+	},
+	{
+		"id": 18,
+		"name": "Kościół św. Katarzyny",
+		"longitude": 53.01294436380467,
+		"latitude": 18.613280952207134,
+		"url": "https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Katarzyny_w_Toruniu"
+	},
+	{
+		"id": 19,
+		"name": "Kościół św. Mikołaja",
+		"longitude": 53.012468030223104,
+		"latitude": 18.607537255915066,
+		"url": "https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Miko%C5%82aja_w_Toruniu"
+	},
+	{
+		"id": 20,
+		"name": "Kościół Wniebowzięcia Najświętszej Marii Panny",
+		"longitude": 53.0111426476522,
+		"latitude": 18.603000995852625,
+		"url": "https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_Wniebowzi%C4%99cia_Naj%C5%9Bwi%C4%99tszej_Marii_Panny_w_Toruniu"
+	},
+	{
+		"id": 21,
+		"name": "Krzywa Wieża",
+		"longitude": 53.008487212597444,
+		"latitude": 18.60220601358115,
+		"url": "https://pl.wikipedia.org/wiki/Krzywa_Wie%C5%BCa_w_Toruniu"
+	},
+	{
+		"id": 22,
+		"name": "Muzeum Etnograficzne im. Marii Znamierowskiej-Prüfferowej",
+		"longitude": 53.01504204993633,
+		"latitude": 18.604482007938707,
+		"url": "https://pl.wikipedia.org/wiki/Muzeum_Etnograficzne_im._Marii_Znamierowskiej-Pr%C3%BCfferowej_w_Toruniu"
+	},
+	{
+		"id": 23,
+		"name": "Muzeum Podróżników im. Tony'ego Halika",
+		"longitude": 53.011595260680615,
+		"latitude": 18.60308154056597,
+		"url": "https://pl.wikipedia.org/wiki/Muzeum_Podr%C3%B3%C5%BCnik%C3%B3w_im._Tony%E2%80%99ego_Halika"
+	},
+	{
+		"id": 24,
+		"name": "Muzeum Toruńskiego Piernika",
+		"longitude": 53.011300816485594,
+		"latitude": 18.608536469401834,
+		"url": "https://pl.wikipedia.org/wiki/Muzeum_Toru%C5%84skiego_Piernika"
+	},
+	{
+		"id": 25,
+		"name": "Plac Mariana Rapackiego",
+		"longitude": 53.01011748289803,
+		"latitude": 18.6013621768066,
+		"url": "https://pl.wikipedia.org/wiki/Plac_Mariana_Rapackiego_w_Toruniu"
+	},
+	{
+		"id": 26,
+		"name": "Planetarium im. Władysława Dziewulskiego",
+		"longitude": 53.01172126699067,
+		"latitude": 18.60299380749379,
+		"url": "https://pl.wikipedia.org/wiki/Planetarium_im._W%C5%82adys%C5%82awa_Dziewulskiego_w_Toruniu"
+	},
+	{
+		"id": 27,
+		"name": "Poczta Główna",
+		"longitude": 53.01051753684925,
+		"latitude": 18.60358481574985,
+		"url": "https://pl.wikipedia.org/wiki/Poczta_G%C5%82%C3%B3wna_w_Toruniu"
+	},
+	{
+		"id": 28,
+		"name": "Pomnik Mikołaja Kopernika",
+		"longitude": 53.01044759614546,
+		"latitude": 18.60522287107358,
+		"url": "https://pl.wikipedia.org/wiki/Pomnik_Miko%C5%82aja_Kopernika_w_Toruniu"
+	},
+	{
+		"id": 29,
+		"name": "Ratusz Staromiejski",
+		"longitude": 53.01050797834982,
+		"latitude": 18.604946598325828,
+		"url": "https://pl.wikipedia.org/wiki/Ratusz_Staromiejski_w_Toruniu"
+	},
+	{
+		"id": 30,
+		"name": "Rynek Nowomiejski",
+		"longitude": 53.01181798073677,
+		"latitude": 18.61119696159813,
+		"url": "https://pl.wikipedia.org/wiki/Rynek_Nowomiejski_w_Toruniu"
+	},
+	{
+		"id": 31,
+		"name": "Teatr Baj Pomorski",
+		"longitude": 53.010556728803614,
+		"latitude": 18.61210491358123,
+		"url": "https://pl.wikipedia.org/wiki/Teatr_Baj_Pomorski_w_Toruniu"
+	},
+	{
+		"id": 32,
+		"name": "Teatr im. Wilama Horzycy",
+		"longitude": 53.012560241334924,
+		"latitude": 18.603394138180903,
+		"url": "https://pl.wikipedia.org/wiki/Teatr_im._Wilama_Horzycy_w_Toruniu"
+	},
+	{
+		"id": 33,
+		"name": "Ulica Fosa Staromiejska",
+		"longitude": 53.01050344985103,
+		"latitude": 18.60134322892469,
+		"url": "https://pl.wikipedia.org/wiki/Ulica_Fosa_Staromiejska_w_Toruniu"
+	},
+	{
+		"id": 34,
+		"name": "Zamek Dybów",
+		"longitude": 53.00129233069591,
+		"latitude": 18.600611713047023,
+		"url": "https://pl.wikipedia.org/wiki/Zamek_Dyb%C3%B3w"
+	},
+	{
+		"id": 35,
+		"name": "Zamek krzyżacki",
+		"longitude": 53.00957658026163,
+		"latitude": 18.611213876326065,
+		"url": "https://pl.wikipedia.org/wiki/Zamek_krzy%C5%BCacki_w_Toruniu"
+	}
+]

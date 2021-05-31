@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HelpActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#D71F5BD5"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="220dp">
+
+        <TextView
+            android:id="@+id/howToUseLabel_Help"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/howToUseLabel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="#FFEB3B"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/howToUse_Help"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/howToUse"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/emptyLabel_Help"
+            android:layout_width="match_parent"
+            android:layout_height="23dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display3" />
+
+        <TextView
+            android:id="@+id/aboutAppLabel_Help"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aboutAppLabel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="#FFEB3B"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/aboutApp_Help"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aboutApp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/backButton_Help"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:backgroundTint="#C11313"
+            android:text="@string/backButton"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

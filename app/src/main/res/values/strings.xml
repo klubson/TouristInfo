@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Przewodnik Turystyczny po Toruniu</string>
+    <string name="title_activity_maps">Przewodnik Turystyczny po Toruniu</string>
+    <string name="startButton">Start</string>
+    <string name="helpButton">Pomoc</string>
+    <string name="exitButton">Wyjście</string>
+    <string name="backButton">Powrót</string>
+    <string name="howToUseLabel">Jak korzystać?</string>
+    <string name="howToUse">W celu znalezienia na mapie atrakcji Torunia, należy wybrać ją z listy, naciskając przycisk "wybierz obiekt" lub lekko potrząsnąć telefonem (aplikacja wybierze atrakcję w sposób losowy). Nazwa wybranego (wylosowanego) obiektu pojawi się pod mapką. Następnie należy wybrać przycisk "znajdź". Na mapie pojawi się znacznik w miejscu lokalizacji obiektu oraz uruchomi się serwis Wikipedia z opisem atrakcji.</string>
+    <string name="aboutAppLabel">O aplikacji</string>
+    <string name="aboutApp">Aplikacja autorstwa Mateusza Kluby ma na celu pomoc w poruszaniu się po Toruniu, zwiedzając liczne miejskie atrakcje. Dodatkowo pozwala przybliżyć ogół wiadomości na temat danego miejsca za pomocą serwisu Wikipedia.</string>
+    <string name="pickObject">Wybierz obiekt</string>
+    <string name="pickedObject">Wybrano:</string>
+    <string name="creatingDatabase">Tworzenie bazy danych...</string>
+    <string name="findButton">Znajdź</string>
+</resources>
