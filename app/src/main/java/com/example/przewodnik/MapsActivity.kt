@@ -8,22 +8,19 @@ import android.hardware.SensorEvent
 import android.hardware.SensorEventListener
 import android.hardware.SensorManager
 import android.location.Location
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.Handler
-import android.os.Looper
 import android.view.View
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import com.example.przewodnikpotoruniu.DBHelper
 import com.example.przewodnikpotoruniu.Object
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationServices
-
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
@@ -66,7 +63,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, SensorEventListene
         }
         runOnUiThread(){
             sensorManager = getSystemService(Context.SENSOR_SERVICE) as SensorManager
-            positionSensor = sensorManager!!.getDefaultSensor(Sensor.TYPE_ACCELEROMETER)
+            positionSensor = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER)
             sensorManager.registerListener(this, positionSensor, SensorManager.SENSOR_DELAY_NORMAL)
         }
     }
@@ -117,7 +114,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, SensorEventListene
     }
 
 
-    override fun onMarkerClick(p0: Marker?) = false
+    override fun onMarkerClick(p0: Marker): Boolean = false
     private fun setUpMap() {
         if (ActivityCompat.checkSelfPermission(this,
                         android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
@@ -158,8 +155,10 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, SensorEventListene
                     it2
                 )
             } }
-            map.addMarker(MarkerOptions().position(location))
-            map.animateCamera(CameraUpdateFactory.newLatLngZoom(location, 18f))
+            location?.let { it1 -> MarkerOptions().position(it1) }
+                ?.let { it2 -> map.addMarker(it2) }
+            location?.let { it1 -> CameraUpdateFactory.newLatLngZoom(it1, 18f) }
+                ?.let { it2 -> map.animateCamera(it2) }
         }
     }
 
